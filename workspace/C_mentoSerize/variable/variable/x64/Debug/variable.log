@@ -1,0 +1,3 @@
+﻿  variableTest2.c
+variableTest2.obj : error LNK2005: num2이(가) var.obj에 이미 정의되어 있습니다.
+C:\C_HES\workspace\C_mentoSerize\variable\x64\Debug\variable.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

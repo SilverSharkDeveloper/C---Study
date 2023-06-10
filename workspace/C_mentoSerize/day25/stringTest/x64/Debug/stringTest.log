@@ -1,0 +1,4 @@
+﻿  cafeTask.c
+C:\C_HES\workspace\C_mentoSerize\day25\stringTest\cafeTask.c(22,12): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\C_HES\workspace\C_mentoSerize\day25\stringTest\cafeTask.c(22,12): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\C_HES\workspace\C_mentoSerize\day25\stringTest\cafeTask.c(36,5): error C2198: 'strcpy_s': 호출에 인수가 너무 적습니다.

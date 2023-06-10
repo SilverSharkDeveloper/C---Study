@@ -1,0 +1,13 @@
+﻿  cafeTask.c
+C:\C_HES\workspace\C_mentoSerize\cafeTask\cafeTask\cafeTask.c(25,12): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\C_HES\workspace\C_mentoSerize\cafeTask\cafeTask\cafeTask.c(25,12): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\C_HES\workspace\C_mentoSerize\cafeTask\cafeTask\cafeTask.c(51,12): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\C_HES\workspace\C_mentoSerize\cafeTask\cafeTask\cafeTask.c(51,12): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\C_HES\workspace\C_mentoSerize\cafeTask\cafeTask\cafeTask.c(68,13): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\C_HES\workspace\C_mentoSerize\cafeTask\cafeTask\cafeTask.c(68,13): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\C_HES\workspace\C_mentoSerize\cafeTask\cafeTask\cafeTask.c(92,12): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\C_HES\workspace\C_mentoSerize\cafeTask\cafeTask\cafeTask.c(92,12): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\C_HES\workspace\C_mentoSerize\cafeTask\cafeTask\cafeTask.c(108,12): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\C_HES\workspace\C_mentoSerize\cafeTask\cafeTask\cafeTask.c(108,12): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\C_HES\workspace\C_mentoSerize\cafeTask\cafeTask\cafeTask.c(152,28): warning C4047: '=': 'char'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+  cafeTask.vcxproj -> C:\C_HES\workspace\C_mentoSerize\cafeTask\x64\Debug\cafeTask.exe

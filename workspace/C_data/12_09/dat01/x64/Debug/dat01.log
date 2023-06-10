@@ -1,0 +1,13 @@
+﻿  day01.c
+C:\C_HES\workspace\C_data\12_09\dat01\day01.c(14,19): warning C4133: '=': 'student *'과(와) 'stduent *' 사이의 형식이 호환되지 않습니다.
+C:\C_HES\workspace\C_data\12_09\dat01\day01.c(15,19): warning C4133: '=': 'student *'과(와) 'stduent *' 사이의 형식이 호환되지 않습니다.
+C:\C_HES\workspace\C_data\12_09\dat01\day01.c(20,25): error C2037: 'name'의 왼쪽은 정의되지 않은 구조체/공용 구조체 'stduent'을(를) 지정합니다.
+C:\C_HES\workspace\C_data\12_09\dat01\day01.c(20,42): error C2037: 'age'의 왼쪽은 정의되지 않은 구조체/공용 구조체 'stduent'을(를) 지정합니다.
+C:\C_HES\workspace\C_data\12_09\dat01\day01.c(20,9): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\C_HES\workspace\C_data\12_09\dat01\day01.c(20,9): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 0개가 제공되었습니다.
+C:\C_HES\workspace\C_data\12_09\dat01\day01.c(20,9): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%s'에 필요합니다.
+C:\C_HES\workspace\C_data\12_09\dat01\day01.c(21,25): error C2037: 'name'의 왼쪽은 정의되지 않은 구조체/공용 구조체 'stduent'을(를) 지정합니다.
+C:\C_HES\workspace\C_data\12_09\dat01\day01.c(21,42): error C2037: 'age'의 왼쪽은 정의되지 않은 구조체/공용 구조체 'stduent'을(를) 지정합니다.
+C:\C_HES\workspace\C_data\12_09\dat01\day01.c(21,9): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\C_HES\workspace\C_data\12_09\dat01\day01.c(21,9): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 0개가 제공되었습니다.
+C:\C_HES\workspace\C_data\12_09\dat01\day01.c(21,9): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%s'에 필요합니다.

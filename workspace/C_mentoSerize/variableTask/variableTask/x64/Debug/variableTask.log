@@ -1,0 +1,4 @@
+﻿  variableTask.c
+variableTask.obj : error LNK2001: 확인할 수 없는 외부 기호 cnum1
+variableTask.obj : error LNK2001: 확인할 수 없는 외부 기호 cnum2
+C:\C_HES\workspace\C_mentoSerize\variableTask\x64\Debug\variableTask.exe : fatal error LNK1120: 2개의 확인할 수 없는 외부 참조입니다.
